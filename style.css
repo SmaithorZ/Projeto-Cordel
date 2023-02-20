@@ -128,10 +128,12 @@ footer{
 
     section#img1{
          background-position: center;
+         background-attachment: local;
     }
 
     section#img2{
         background-position: center;
+        background-attachment: local;
     }
 
     footer{
